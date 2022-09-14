@@ -1,1 +1,3 @@
 # Programmable-Power-Supply
+
+Assembly and commissioning of a programmable power supply. It has precise control characteristics with which settings can be made for the target values for output voltage and output current. These are made via an incremental encoder (rotary pulse controller) and are displayed next to the actual values and other relevant parameters on the LC display. Beforehand, extensive hardware knowledge was imparted in order to become familiar with the electronic components. In addition to soldering exercises and topics such as correct stripping, other practical implementations were also carried out, such as the creation of electrical circuits.
